@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ConuntVCW {
 
 	public static void main(String[] args) {
-		System.out.println("Enter the text");
+		//System.out.println("Enter the text");
 		Scanner sc= new Scanner(System.in);
 		String s1=sc.nextLine();
 		s1=s1.toLowerCase();
